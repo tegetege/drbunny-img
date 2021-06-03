@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <filter id="Ellipse_1" x="15.487" y="34.267" width="46.801" height="50.771" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#f42121" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2" x="24.479" y="34.267" width="46.801" height="50.771" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#f42121" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 0)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M62.659,88H25.341a4.835,4.835,0,0,1-4.83-4.829V67.489H4.829A4.835,4.835,0,0,1,0,62.659V25.341a4.835,4.835,0,0,1,4.829-4.83H20.511V4.83A4.836,4.836,0,0,1,25.341,0H62.659a4.835,4.835,0,0,1,4.829,4.83V20.511H83.17A4.836,4.836,0,0,1,88,25.341V62.659a4.836,4.836,0,0,1-4.83,4.83H67.488V83.171A4.835,4.835,0,0,1,62.659,88ZM43.795,72.121c.978.021,1.851.032,2.67.032,4.441,0,7.218-.306,9-.991a5.377,5.377,0,0,0,3.153-3.011c1.18-2.332.545-4.283-.721-8.171-.52-1.6-1.166-3.58-1.826-6.042a9.972,9.972,0,0,0-4.764-6.179c.639-2.071,2.279-4.537,5.485-8.245A20.958,20.958,0,0,0,61.091,30.7a25.319,25.319,0,0,0,.561-8.68c-.293-2.4-.968-4.142-1.852-4.771a.977.977,0,0,0-.572-.194c-2.754,0-6.542,12.343-9.049,20.511-.975,3.177-1.745,5.686-2.19,6.612a5.615,5.615,0,0,1-1.324,1.893,17.245,17.245,0,0,0-2.831-.3h-.054a15.654,15.654,0,0,0-2.494.245,5.846,5.846,0,0,1-1.264-1.833c-.453-.937-1.267-3.525-2.3-6.8-2.554-8.122-6.414-20.4-8.924-20.4a.864.864,0,0,0-.6.268c-1.418,1.352-2.221,5.167-1.952,9.276A22.5,22.5,0,0,0,31.2,39.514c3.2,3.725,4.772,6.056,5.419,8.046a10.018,10.018,0,0,0-5.108,6.379c-.66,2.46-1.306,4.444-1.825,6.039-1.267,3.889-1.9,5.841-.722,8.174a5.39,5.39,0,0,0,3.2,3.006c1.821.684,4.667.989,9.227.989C42.137,72.146,42.945,72.137,43.795,72.121Z" fill="#ff7ea0"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_1)">
+        <ellipse id="Ellipse_1-2" data-name="Ellipse 1" cx="0.901" cy="2.886" rx="0.901" ry="2.886" transform="translate(37.99 56.77)" fill="#ff7ea0"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_2)">
+        <ellipse id="Ellipse_2-2" data-name="Ellipse 2" cx="0.901" cy="2.886" rx="0.901" ry="2.886" transform="translate(46.98 56.77)" fill="#ff7ea0"/>
+      </g>
+    </g>
+  </g>
+</svg>
